@@ -1,0 +1,53 @@
+P,C,K
+- Shannon's law perfect secrecy
+
+Adversarial games - IND-C** variants (m0, m1)
+
+if we pick any random string in the output set it is not likely to have been produced by this algo
+
+Probabilistic polynomial time algo (PPT) - internal coin toss, also gets a random string input
+
+One way function vs Trapdoor one way function
+
+a PRG takes a short seed and produces a long output which looks like random.
+
+Using PRG to create ENC algo
+
+Stream : RC4 256B, Key- 8 to 16B, WEP construction, A5/1, A5/3, Sync - Init vector, 
+& Block ciphers
+
+Adversarial games - IND-C** variants (m0, m1), CPA, CCA
+
+PRF=>
+This scheme is CPA secure because of PRF property
+This scheme is NOT CCA secure
+
+Modes of operation in stream : ECB, CBC, Chained CBC, CTR, OFB
+
+- Fiestal cipher & 3+1 Secure PRP
+used in DES (Subs-Box & Perm is for diffusion)
+
+- PRG (seed value n << 1), PRF, PRP, 
+- DES, 2-DES keysize (K1, K2) = 112bit key, & 3-DES (K1,K1,K2) 
+
+Every finite field of same size is isomorphic to each other
+The no of elements in a finite field are p^n for some prime p & some int n
+
+Group, 
+Finite field, multiplication of polynomials, used in AES - Rijndael FF, 
+Galois Field
+AES - SPN arch
+Random Oracles 
+Birthday paradox
+
+Resistance:
+Preimage
+Second Preimage
+Collision 
+
+Differential cryptanalysis
+
+Padding types : Merkle Damgrad (Longer -> Shorter), 
+
+SHA-3
+

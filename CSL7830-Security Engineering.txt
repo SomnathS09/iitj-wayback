@@ -1,0 +1,64 @@
+CSL 7830  Security engineering 
+AY 2024-25 Sem1 
+
+Tentative syllabus:
+
+(1) Introduction to Security engineering, Cybercrime and psychology:
+Introduction to Security engineering. Understanding the adversaries, criminal infrastructure and types of cyber attacks. Cognitive and social psychology and their use in deception and social engineering attacks. 
+(2) Protocols, Distributed systems, and Access control: 
+Password security and CAPTCHAs, Authentication using challenge-response, MIG-in-the-middle attack, Chosen protocol attack, Key management, Kerberos and other protocols. Methods of Access control, Sandboxing and virtualization, attacks such as stack overflow. Remedies. Concurrency, updates and fault tolerance. Needham naming principle, stability of names and addresses.  
+(3) Economics, Security policies, and Inference control:
+Economics, monopoly, and the key differentiators of information markets. Economics of security, DRM, privacy, and cybercrime. Security policy models - Bell-LaPadula and Biba model. Data anonymization and inference control. Differential privacy. Physical security – locks and alarms.
+(4) Banking Security:
+Banking and bookkeeping systems. The Clark-Wilson security policy model. Insider and executive frauds. Case studies of e-commerce, SWIFT, ATM machines, Credit cards, online banking etc. Tamper resistance and attacks on smart cards.
+(5) Device and Control systems security, Information Warfare: 
+Security of Smart meters and smart grids. SCADA security. Nuclear command and control. The Kennedy memorandum. Cyber warfare and information warfare. Jamming, IFF systems, Attacks on control systems. Attacks on elections and political stability.
+(6) Network and phone security: 
+Network protocols and DoS attacks, BGP and DNS security, Flooding attacks, Malwares, Firewalls.  Phone security. Attacks on signaling and switching systems. Case studies of GSM, 3G, 4G and 5G technologies. Mobile app market and malware.
+(7) Copyright, Surveillance, and Privacy Regulations:
+Copyright, DRM and watermarking. Intellectual property and the IP lobby.  Surveillance. Crypto wars. Censorship. Privacy regulations in the US, EU, and India.
+(8) Advanced topics: 
+Biometrics, attacks on biometric systems, Use of AI in securing and attacking systems, model attacks, Electronic voting and secure elections. Security of medical devices. Sustainable security. 
+
+Textbook: 
+Ross Anderson. Security Engineering: A Guide to Building Dependable Distributed Systems, 3rd Edition, Wiley.
+
+Evaluation:
+Minor: 25%
+Major: 35%
+Assignments: 40% 
+
+
+Class Recordings Google classroom link: https://meet.google.com/arn-ebiy-pym
+
+Somitra Kumar Sanadhya posted a new : Recording 24 Aug 2024 Posted 7:18 PM
+https://drive.google.com/file/d/1iVwnvqGbYJtSahYvEdMcfG4lhPXjcE-z/view?usp=sharing
+
+
+Somitra Kumar Sanadhya posted a new : Recording 17 Aug 2024
+Posted Aug 17
+https://drive.google.com/file/d/1hkI4PKffWfD_Ahy0W9VjztnhCL_0C2Mp/view?usp=sharing
+
+Somitra Kumar Sanadhya posted a new : Recording 16 Aug 2024
+Posted Aug 16
+https://drive.google.com/file/d/1VDza-tDtQusrb2jz5QpqhnoHacZf12c-/view?usp=sharing
+
+Somitra Kumar Sanadhya posted a new : Recording 9 Aug 2024
+Posted Aug 9
+https://drive.google.com/file/d/16oImovsjQydLDvFlHatV0qn1l6RXwYEU/view?usp=sharing
+
+Somitra Kumar Sanadhya posted a new : Recording 3 Aug 2024
+Posted Aug 3
+https://drive.google.com/file/d/1wu9gy-hsbwzFbK454qh2gZDphNRiPcFf/view?usp=sharing
+
+
+Please fill your paper preferences in the shared sheet linked below. I will fill column 2 (approved?) and then you can read the paper and submit a 2-3 page summary of the paper. As discussed in the class, the paper should cover privacy or security concerns. Preferably, the paper should be related to psychological aspects or understanding the adversaries. These are the topics we have covered in the class till now. Hence, I would like you to focus on only those aspects. (No cryptography paper, no network security paper etc. Those can be studied only if the focus is on usability or privacy concerns. Such papers can also be studied if they are about how adversaries can utilize the tools at their disposal to attack people.)
+
+Please fill your preferences quickly so that you can start reading the paper. I will try to look at the sheet at least every day and either approve or disallow the suggested paper.
+
+Research : https://docs.google.com/spreadsheets/d/1YbwAs3SMLLx2E72Pg2hMqyYrrLM2iiCUPj7p8wT_Ijg/edit?usp=sharing
+
+An example conference which I referred to in today's class: SOUPS 2024
+https://www.usenix.org/conference/soups2024/technical-sessions
+
+Attendance : https://docs.google.com/spreadsheets/d/15uMGZnC_n4JZ_gxy7hAJOeaHN4hAnh2t_gO669OddG4/edit?usp=classroom_web&authuser=5

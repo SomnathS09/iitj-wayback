@@ -1,0 +1,1 @@
+quiz 1, quiz 2, minor, quiz 3, quiz 4, major
